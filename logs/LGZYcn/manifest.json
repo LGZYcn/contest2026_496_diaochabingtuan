@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_496_diaochabingtuan",
+  "github_login": "LGZYcn",
+  "generator": "backfill-codex@codex",
+  "sessions": [
+    {
+      "session_id": "01a14065-9edc-7572-8897-18492b020296",
+      "tool": "codex",
+      "started_at": "2026-10-15T16:29:24.823Z",
+      "last_event_at": "2026-10-15T16:29:31.867Z",
+      "event_count": 2,
+      "file_path": "logs/LGZYcn/2026-10-15/codex__01a14065-9edc-7572-8897-18492b020296.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "2fc47f72e6d4f6c5f00535bf9f74e9c1a96bf759884361cd18ff0bc2d6c64846",
+        "main_size": 57634,
+        "captured_at": "2026-10-16T10:44:47.754038+00:00"
+      }
+    },
+    {
+      "session_id": "01a1407c-3f1f-7962-9626-30aafd927ff1",
+      "tool": "codex",
+      "started_at": "2026-10-15T16:54:07.619Z",
+      "last_event_at": "2026-10-15T16:54:09.324Z",
+      "event_count": 2,
+      "file_path": "logs/LGZYcn/2026-10-15/codex__01a1407c-3f1f-7962-9626-30aafd927ff1.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "b5fde250408600f079739f8c761eadb5309079ebb08f7925f1a75d68906db2d4",
+        "main_size": 42152,
+        "captured_at": "2026-10-16T10:44:47.771474+00:00"
+      }
+    },
+    {
+      "session_id": "01a1408a-d7cb-7353-9b06-76c273816d73",
+      "tool": "codex",
+      "started_at": "2026-10-15T17:13:55.716Z",
+      "last_event_at": "2026-10-15T17:13:57.138Z",
+      "event_count": 2,
+      "file_path": "logs/LGZYcn/2026-10-15/codex__01a1408a-d7cb-7353-9b06-76c273816d73.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "37257a466d70d03b904cc7851d5d4a761a300e8def66e32883c66eda492d42c7",
+        "main_size": 51171,
+        "captured_at": "2026-10-16T10:44:47.788444+00:00"
+      }
+    },
+    {
+      "session_id": "01a14094-3545-7d53-83af-0cb7b6e9f334",
+      "tool": "codex",
+      "started_at": "2026-10-15T17:20:19.951Z",
+      "last_event_at": "2026-10-15T17:20:34.174Z",
+      "event_count": 3,
+      "file_path": "logs/LGZYcn/2026-10-15/codex__01a14094-3545-7d53-83af-0cb7b6e9f334.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "30fd85761a5b4ae3d43e5ede8a2c3608f78b9a62526781d27357ced4df3ab1b1",
+        "main_size": 93901,
+        "captured_at": "2026-10-16T10:44:47.806554+00:00"
+      }
+    }
+  ],
+  "updated_at": "2026-10-16T10:44:47.809275+00:00"
+}
