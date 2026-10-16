@@ -63,7 +63,22 @@
         "main_size": 93901,
         "captured_at": "2026-10-16T10:44:47.806554+00:00"
       }
+    },
+    {
+      "session_id": "01a14471-2f6a-7291-8e5d-0782b4df6877",
+      "tool": "codex",
+      "started_at": "2026-10-16T11:20:32.575Z",
+      "last_event_at": "2026-10-16T11:20:52.945Z",
+      "event_count": 3,
+      "file_path": "logs/LGZYcn/2026-10-16/codex__01a14471-2f6a-7291-8e5d-0782b4df6877.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "3de9720c7450c048b28675a7e634bf647aa928b740657362ed01f538f0cb2d81",
+        "main_size": 139496,
+        "captured_at": "2026-10-16T11:57:50.286209+00:00"
+      }
     }
   ],
-  "updated_at": "2026-10-16T10:44:47.809275+00:00"
+  "updated_at": "2026-10-16T11:57:50.287397+00:00"
 }
