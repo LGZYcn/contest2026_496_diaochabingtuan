@@ -78,7 +78,37 @@
         "main_size": 139496,
         "captured_at": "2026-10-16T11:57:50.286209+00:00"
       }
+    },
+    {
+      "session_id": "01a1689c-e1ee-7792-b705-b2e5b0f1427c",
+      "tool": "codex",
+      "started_at": "2026-10-23T11:54:35.872Z",
+      "last_event_at": "2026-10-23T11:54:37.568Z",
+      "event_count": 2,
+      "file_path": "logs/LGZYcn/2026-10-23/codex__01a1689c-e1ee-7792-b705-b2e5b0f1427c.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "04d7f5831638e0ee32f4c9fb4c573641ca33967d33f8d84ecb1e722616954438",
+        "main_size": 69586,
+        "captured_at": "2026-10-24T09:50:23.506676+00:00"
+      }
+    },
+    {
+      "session_id": "01a16796-c56b-7bc3-a062-a334929371eb",
+      "tool": "codex",
+      "started_at": "2026-10-23T07:09:05.611Z",
+      "last_event_at": "2026-10-24T09:45:38.794Z",
+      "event_count": 558,
+      "file_path": "logs/LGZYcn/2026-10-23/codex__01a16796-c56b-7bc3-a062-a334929371eb.jsonl",
+      "collection_mode": "backfill-sqlite",
+      "health": "ok",
+      "source_integrity": {
+        "main_sha256": "9e22ba5f656e373f3828873f0715db43fd177a66a4e64932a8e3c93a5db5375e",
+        "main_size": 23056873,
+        "captured_at": "2026-10-24T09:53:28.266576+00:00"
+      }
     }
   ],
-  "updated_at": "2026-10-16T11:57:50.287397+00:00"
+  "updated_at": "2026-10-24T09:53:28.270898+00:00"
 }
